@@ -1,4 +1,3 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://example.com/sitemap.xml
+# Merge this directive into https://bashubb.com/robots.txt.
+# A robots.txt in /TheBrainRace/ is not read as a host-level policy.
+Sitemap: https://bashubb.com/TheBrainRace/sitemap.xml
